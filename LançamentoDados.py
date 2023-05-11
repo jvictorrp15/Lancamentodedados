@@ -38,5 +38,5 @@ while(n != 0):
     n = n - len(igual1)
 
 # exibe a média dos valores de lambda calculados
-print(f'O lambda é igual a: {sum(lam) / len(lam)}')
+print(f'O lambda é igual a: {-(sum(lam) / len(lam))}')
 
